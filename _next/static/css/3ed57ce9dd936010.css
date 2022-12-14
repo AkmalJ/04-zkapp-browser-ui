@@ -334,12 +334,12 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/caution.c83a01cf.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 180px;
-	height: 155px;
+	width: 150px;
+	height: 130px;
 	position: absolute;
-	left: 370px;
-	top: 120px;
-}
+	left: 380px;
+	top: 170px;
+}	
 
 .Home_succes__k1IzW {
 	display: block;
@@ -383,7 +383,7 @@ a {
 	left: 390px;
 	top: 370px;
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -391,10 +391,10 @@ a {
 .Home_walletTxt__aVJtU {
 	display: block;
 	position: absolute;
-	left: 210px;
+	left: 225px;
 	top: 350px;
 	color: white;
-	font-size: 15px;
+	font-size: 14px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -402,10 +402,10 @@ a {
 .Home_faucetTxt__R0HSg {
 	display: block;
 	position: absolute;
-	left: 215px;
+	left: 233px;
 	top: 350px;
 	color: white;
-	font-size: 15px;
+	font-size: 14px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -416,7 +416,7 @@ a {
 	left: 390px;
 	top: 370px;
 	color: white;
-	font-size: 20px;
+	font-size: 19px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -756,10 +756,10 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 80px;
-	height: 70px;
+	height: 65px;
 	position: absolute;
 	left: 270px;
-	top: 600px;
+	top: 603px;
 }
 
 .Home_dcIcon__DDy4R {
@@ -767,8 +767,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.b2d0e58c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 85px;
-	height: 65px;
+	width: 75px;
+	height: 63px;
 	position: absolute;
 	left: 370px;
 	top: 603px;
@@ -779,8 +779,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.2196d788.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 85px;
-	height: 70px;
+	width: 83px;
+	height: 65px;
 	position: absolute;
 	left: 466px;
 	top: 599px;
@@ -791,8 +791,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.08c92140.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 80px;
+	width: 80px;
+	height: 75px;
 	position: absolute;
 	left: 557px;
 	top: 597px;
