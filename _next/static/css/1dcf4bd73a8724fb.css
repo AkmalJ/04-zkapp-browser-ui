@@ -2,7 +2,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.f4c43c16.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.74bf7b8d.png);
 
 	font-family: "Comic Sans MS";
 	font-size: 27px;
@@ -65,7 +65,7 @@ a {
 	width: 520px;
 	height: 200px;
 	position: absolute;
-	left: 200px;
+	left: 197px;
 	top: 490px;
 }
 
@@ -179,7 +179,7 @@ a {
 	position: relative;	
 	width: 900px;
 	height: 600px;
-	transform: scale(1);
+	transform: scale(0.9);
 }
 
 .Home_homepageImg__fcRDd {
@@ -188,7 +188,7 @@ a {
 	background-size: cover;
 	align-items: center;
 	justify-content: center;
-	margin-left: 10px;
+	margin-left: auto;
 	margin-top: 5px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.1034d243.png);
 	background-repeat: no-repeat;
@@ -271,31 +271,31 @@ a {
 
 .Home_loading__IsZ5F {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.f0c1f421.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.ee04156f.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 130px;
-	height: 130px;
+	width: 120px;
+	height: 120px;
 	position: absolute;
-	left: auto;
+	left: 390px;
 	top: 170px;
 }
 
 .Home_getLoading__Ml8Nf {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.f0c1f421.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.ee04156f.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 130px;
-	height: 130px;
+	width: 120px;
+	height: 120px;
 	position: absolute;
-	left: 380px;
+	left: 385px;
 	top: 230px;
 }
 
 .Home_sendLoading__Zkd01 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.f0c1f421.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.ee04156f.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 130px;
@@ -382,7 +382,7 @@ a {
 	position: absolute;
 	left: 390px;
 	top: 370px;
-	color: white;
+	color: #00acee;
 	font-size: 18px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
@@ -415,7 +415,7 @@ a {
 	position: absolute;
 	left: 390px;
 	top: 370px;
-	color: white;
+	color: #00acee;
 	font-size: 19px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
@@ -477,7 +477,7 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 250px;
+	left: 245px;
 	top: 400px;
 }
 
@@ -486,11 +486,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn2.0e7692f8.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 158px;
+	height: 71px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 246px;
+	top: 401px;
 }
 
 .Home_sendBtn__F6hw6:active {
@@ -501,7 +501,7 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 250px;
+	left: 245px;
 	top: 400px;
 }
 
@@ -513,7 +513,7 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 250px;
+	left: 245px;
 	top: 400px;
 }
 
@@ -525,7 +525,7 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
+	left: 500px;
 	top: 400px;
 }
 
@@ -534,11 +534,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn2.497229a5.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 158px;
+	height: 71px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 501px;
+	top: 401px;
 }
 
 .Home_getBtn__h_3sY:active {
@@ -549,7 +549,7 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
+	left: 500px;
 	top: 400px;
 }
 
@@ -561,7 +561,7 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
+	left: 500px;
 	top: 400px;
 }
 
@@ -592,7 +592,7 @@ a {
 .Home_txtAddrs__0j0LW {
 	display: block;
 	position: absolute;
-	left: 283px;
+	left: 280px;
 	top: 351.5px;
 	color: white;
 	font-size: 12px;
@@ -604,10 +604,10 @@ a {
 .Home_addrs__ciNE1 {
 	display: block;
 	position: absolute;
-	left: 222px;
+	left: 217px;
 	top: 350px;
 	color: white;
-	font-size: 12.5px;
+	font-size: 13px;
 	text-align: center;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 
@@ -752,11 +752,11 @@ a {
 
 .Home_teleIcon__qLDZz {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.95dd0066.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.f4837eca.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 80px;
-	height: 65px;
+	width: 72px;
+	height: 63px;
 	position: absolute;
 	left: 270px;
 	top: 603px;
@@ -764,38 +764,38 @@ a {
 
 .Home_dcIcon__DDy4R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.b2d0e58c.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.a88ee786.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 75px;
-	height: 63px;
+	width: 70px;
+	height: 60px;
 	position: absolute;
 	left: 370px;
-	top: 603px;
+	top: 605px;
 }
 
 .Home_fbIcon__HDaE7 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.2196d788.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.157e2adc.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 83px;
-	height: 65px;
+	height: 63px;
 	position: absolute;
-	left: 466px;
-	top: 599px;
+	left: 464px;
+	top: 602px;
 }
 
 .Home_gitIcon__L23x5 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.08c92140.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.b7e283ca.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 80px;
-	height: 75px;
+	width: 73px;
+	height: 63px;
 	position: absolute;
-	left: 557px;
-	top: 597px;
+	left: 564px;
+	top: 600px;
 }
 
 
